@@ -1,0 +1,123 @@
+
+
+.mainpage{
+    text-align: center;
+    background-image: url(images/hero.jpg);
+    width: 100%;
+}
+
+.smallLogo{
+    float: left;
+    width: 5%;
+}
+.bigLogo{
+    width: 20%;
+    text-align: center;
+
+}
+
+.about{
+    text-align: center;
+    color: #009999;
+    font-family: Noto Sans JP;
+}
+
+.signup {
+    background-color: #009999;
+    text-align: center;
+    padding: 30px;
+}
+
+nav.main li{
+
+    display: inline;
+
+}
+
+.menu{
+
+    color: #009999;
+    text-align: center;
+    font-family: Noto Sans JP;
+}
+
+nav.menu li{
+    display: inline;
+    
+}
+
+.location {
+    text-align: center;
+    background-color: #009999;
+    padding: 25px;
+    color: white;
+    font-family: Noto Sans JP;
+}
+
+.locationImage {
+
+    width: 50%;
+    float:left;
+
+}
+
+.signup{
+
+    color: white;
+    font-family: Noto Sans JP;
+
+}
+
+.booknow {
+    text-align: center;
+    color: #009999;
+    font-family: Noto Sans JP;
+}
+
+.joinUs{
+    text-align: center;
+    color: #009999;
+    font-family: Noto Sans JP;
+}
+
+
+.barman {
+    border: 5px solid blue; 
+    width: 100%;
+}
+
+.cocktail {
+    border: 5px solid yellow;
+    width: 100%;
+}
+
+.chef {
+    border: 5px solid orange;
+    width: 100%;
+}
+
+.followUs {
+    text-align: center;
+    color: #009999;
+    font-family: Noto Sans JP;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .footer {
+
+    color: #009999;
+    font-family: Noto Sans JP;
+    font-size: 13px;
+  }
